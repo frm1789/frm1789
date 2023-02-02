@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Stranger!
 
 - 🔭 I’m currently working on NLP using Spacy
 - 🌱 I’m currently learning about Hive & Hadoop  
