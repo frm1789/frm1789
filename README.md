@@ -3,7 +3,7 @@
 **About Me**
  
 - 🔭 I’m currently working as Product Manager at [Teamup](https://teamup.org/)
-- 🌱 I’m currently developing my portfolio.
+- 🌱 I’m currently developing my [portfolio]. (https://frm1789.github.io/)
 - 👯 I’m looking to collaborate on NLP projects applied to learning and education.
 - 📫 How to reach me: florencia.mangini at gmail.com
 
