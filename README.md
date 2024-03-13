@@ -16,7 +16,7 @@
 
 ⭐ **Favorite Projects**
 
-1. **Forecasting on Properties prices in Cook County** AA comprehensive analysis focused on forecasting property prices in Cook County.
+1. **Forecasting on Properties prices in Cook County** A comprehensive analysis focused on forecasting property prices in Cook County.
 2. **Crime in Chicago** - A dashboard project showcasing crime data in Chicago, utilizing tools such as Excel and Tableau.
 3. **Where you can find the best coffee?** - A small project involving Excel, SQL, and R. I analyzed reviews to determine the best places to find delightful beverages.
 
